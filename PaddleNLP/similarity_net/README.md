@@ -154,7 +154,7 @@ python run_classifier.py \
 
 i. 定义自己的网络结构
 
-用户可以在nlp_tools/models/matching下定义自己的模型；
+用户可以在models/matching下定义自己的模型；
 
 ii. 更改模型配置
 
